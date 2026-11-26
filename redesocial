@@ -1,0 +1,32 @@
+Crie uma rede social chamada VibeTok, inspirada no TikTok, com um visual moderno, bonito e profissional.
+
+A rede social deve ter uma página inicial com vídeos curtos na vertical, passando os vídeos para cima e para baixo.
+
+Na parte inferior, coloque somente:
+
+- 🏠 Início (casinha).
+- ➕ Gravar vídeos.
+- 📥 Caixa de entrada.
+- 👤 Perfil.
+
+Na parte de gravação, permita gravar vídeos pela câmera do celular e também escolher vídeos diretamente da galeria. Adicione emojis, filtros, efeitos especiais, músicas autorizadas, textos e ferramentas divertidas para editar os vídeos.
+
+Adicione curtidas ❤️, comentários 💬, compartilhamentos 🔁 e favoritos ⭐.
+
+Crie uma opção para cadastrar uma conta usando Google, Facebook ou e-mail.
+
+Cada pessoa poderá criar seu próprio perfil com foto, nome, descrição e vídeos publicados.
+
+Adicione notificações, pesquisa de usuários e pesquisa de vídeos.
+
+REGRAS IMPORTANTES:
+
+- Não colocar sistema de moedas.
+- Não colocar ganho de moedas.
+- Não colocar carteira.
+- Não colocar filmes.
+- Não colocar shopping.
+- Não colocar loja.
+- Não colocar seção de compras.
+
+O aplicativo deve ser fácil de usar, funcionar em celulares Android e iPhone, ter uma aparência profissional e oferecer segurança e privacidade para os usuários.
